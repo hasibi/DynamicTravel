@@ -1,0 +1,60 @@
+I want to go from home to home
+I want to go from hospital to restaurant
+I want to go from cinema to gym
+I want to go from library to lake
+I want to go from shopping mall to laboratory
+I want to go from work to hospital
+I want to go from laboratory to meeting
+I want to go from lake to market
+I want to go from pub to library
+I want to go from drugstore to lake
+I want to go from restaurant to work
+I want to go from beach to lake
+I want to go from theater to office
+I want to go from office to museum
+I want to go from sauna to park
+I want to go from bar to drugstore
+I want to go from library to office
+I want to go from coffee shop to gym
+I want to go from gym to bar
+I want to go from airport to doctor
+I want to go from restaurant to bar at 21:3
+I want to go from pub to coffee shop at 16:38
+I want to go from sauna to library at 6:30
+I want to go from lake to gallery at 5:25
+I want to go from lake to restaurant at 23:22
+I want to go from bank to restaurant at 14:59
+I want to go from museum to doctor at 0:12
+I want to go from museum to meeting at 3:57
+I want to go from gallery to meeting at 1:39
+I want to go from hospital to hospital at 12:55
+I want to go from bar to my brother's birthday at 5:48
+I want to go from my brother's birthday to university at 21:59
+I want to go from market to cinema at 23:0
+I want to go from sauna to bar at 5:44
+I want to go from park to hospital at 22:41
+I want to go from bar to hospital at 10:31
+I want to go from library to bar at 4:3
+I want to go from bank to cinema at 6:17
+I want to go from sauna to hospital at 11:23
+I want to go from meeting to theater at 21:0
+I want to go from lake to theater on Thursday at 16:38
+I want to go from library to drugstore on Thursday at 14:27
+I want to go from sauna to cinema on Sunday at 4:45
+I want to go from bar to lake on Friday at 8:31
+I want to go from park to airport on Monday at 6:41
+I want to go from beach to cinema on Saturday at 2:29
+I want to go from swimming pool to beach on Wednesday at 4:3
+I want to go from home to my brother's birthday on Wednesday at 4:13
+I want to go from library to coffee shop on Saturday at 23:20
+I want to go from museum to airport on Wednesday at 19:49
+I want to go from lake to gallery on Wednesday at 12:41
+I want to go from gallery to cinema on Wednesday at 1:56
+I want to go from my brother's birthday to bank on Saturday at 8:32
+I want to go from cinema to doctor on Thursday at 6:46
+I want to go from market to lake on Thursday at 11:9
+I want to go from gym to cinema on Wednesday at 10:49
+I want to go from drugstore to cinema on Friday at 22:24
+I want to go from pub to park on Friday at 15:35
+I want to go from university to university on Monday at 4:20
+I want to go from airport to bar on Saturday at 3:3

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TripList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://api.vasttrafik.se/v1/hafasRestTrip.xsd" servertime="20:07" serverdate="2012-06-16">
+<Trip   >
+<Leg name="Spårvagn 7" type="TRAM" id="9015014500700045" direction="Bergsjön" fgColor="#7d4313" bgColor="#ffffff" stroke="Solid" >
+<Origin name="Chalmers, Göteborg" type="ST" id="9022014001960001" routeIdx="14" time="11:31" date="2012-06-16" track="A " >
+</Origin>
+<Destination name="Valand, Göteborg" type="ST" id="9022014007220001" routeIdx="17" time="11:36" date="2012-06-16" track="A " >
+</Destination>
+<JourneyDetailRef ref="http://api.vasttrafik.se/bin/rest.exe/v1/journeyDetail?ref=197277%2F68225%2F105404%2F13057%2F80%3Fdate%3D2012-06-16%26station_evaId%3D1960001%26station_type%3Ddep%26authKey%3D734816b0-5363-4571-b28f-950b7a33337a%26" />
+</Leg>
+</Trip>
+<Trip   >
+<Leg name="Spårvagn 10" type="TRAM" id="9015014501000043" direction="Biskopsgården" fgColor="#b4e16e" bgColor="#0e629b" stroke="Solid" >
+<Origin name="Chalmers, Göteborg" type="ST" id="9022014001960001" routeIdx="3" time="11:35" date="2012-06-16" track="A " >
+</Origin>
+<Destination name="Valand, Göteborg" type="ST" id="9022014007220001" routeIdx="6" time="11:40" date="2012-06-16" track="A " >
+</Destination>
+<JourneyDetailRef ref="http://api.vasttrafik.se/bin/rest.exe/v1/journeyDetail?ref=889305%2F299018%2F826008%2F116569%2F80%3Fdate%3D2012-06-16%26station_evaId%3D1960001%26station_type%3Ddep%26authKey%3D734816b0-5363-4571-b28f-950b7a33337a%26" />
+</Leg>
+</Trip>
+<Trip   >
+<Leg name="Spårvagn 7" type="TRAM" id="9015014500700047" direction="Bergsjön" fgColor="#7d4313" bgColor="#ffffff" stroke="Solid" >
+<Origin name="Chalmers, Göteborg" type="ST" id="9022014001960001" routeIdx="14" time="11:41" date="2012-06-16" track="A " >
+</Origin>
+<Destination name="Valand, Göteborg" type="ST" id="9022014007220001" routeIdx="17" time="11:46" date="2012-06-16" track="A " >
+</Destination>
+<JourneyDetailRef ref="http://api.vasttrafik.se/bin/rest.exe/v1/journeyDetail?ref=122394%2F43265%2F861280%2F389842%2F80%3Fdate%3D2012-06-16%26station_evaId%3D1960001%26station_type%3Ddep%26authKey%3D734816b0-5363-4571-b28f-950b7a33337a%26" />
+</Leg>
+</Trip>
+<Trip   >
+<Leg name="Spårvagn 10" type="TRAM" id="9015014501000045" direction="Biskopsgården" fgColor="#b4e16e" bgColor="#0e629b" stroke="Solid" >
+<Origin name="Chalmers, Göteborg" type="ST" id="9022014001960001" routeIdx="3" time="11:46" date="2012-06-16" track="A " >
+</Origin>
+<Destination name="Valand, Göteborg" type="ST" id="9022014007220001" routeIdx="6" time="11:51" date="2012-06-16" track="A " >
+</Destination>
+<JourneyDetailRef ref="http://api.vasttrafik.se/bin/rest.exe/v1/journeyDetail?ref=968379%2F325377%2F688484%2F21449%2F80%3Fdate%3D2012-06-16%26station_evaId%3D1960001%26station_type%3Ddep%26authKey%3D734816b0-5363-4571-b28f-950b7a33337a%26" />
+</Leg>
+</Trip>
+<Trip   >
+<Leg name="Buss 58" type="BUS" id="9015014505800628" direction="Bergsjön" fgColor="#00A5DC" bgColor="#ffffff" stroke="Solid" >
+<Origin name="Chalmers, Göteborg" type="ST" id="9022014001960001" routeIdx="28" time="11:49" date="2012-06-16" track="A " >
+</Origin>
+<Destination name="Valand, Göteborg" type="ST" id="9022014007220001" routeIdx="31" time="11:53" date="2012-06-16" track="A " >
+</Destination>
+<JourneyDetailRef ref="http://api.vasttrafik.se/bin/rest.exe/v1/journeyDetail?ref=352071%2F141186%2F635528%2F200410%2F80%3Fdate%3D2012-06-16%26station_evaId%3D1960001%26station_type%3Ddep%26authKey%3D734816b0-5363-4571-b28f-950b7a33337a%26" />
+</Leg>
+</Trip>
+</TripList>
