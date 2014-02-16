@@ -27,4 +27,5 @@ or
 https://gupea.ub.gu.se/bitstream/2077/32863/1/gupea_2077_32863_1.pdf
 
 More information about Grammatical Framework(GF) can be found at:
+
 http://www.grammaticalframework.org/
