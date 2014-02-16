@@ -17,3 +17,9 @@ A user can also record some commands and use them in later conversion:
 
 ─	System: Ta spårvagn nummer 10 från Valand läge B till Chalmers  kl 07:33
 (Take tram number 10 from Valand track B to Chalmers at 07:33)
+
+More description about this work can be found at:
+http://link.springer.com/chapter/10.1007%2F978-3-642-32612-7_7
+
+More information about Grammatical Framework(GF) can be found at:
+http://www.grammaticalframework.org/
