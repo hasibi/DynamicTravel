@@ -19,8 +19,11 @@ A user can also record some commands and use them in later conversion:
 (Take tram number 10 from Valand track B to Chalmers at 07:33)
 
 More description about this work can be found at:
+
 http://link.springer.com/chapter/10.1007%2F978-3-642-32612-7_7
+
 or 
+
 https://gupea.ub.gu.se/bitstream/2077/32863/1/gupea_2077_32863_1.pdf
 
 More information about Grammatical Framework(GF) can be found at:
