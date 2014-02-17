@@ -11,7 +11,9 @@ This program is a multi-lingual QA system, which is designed for public transpor
 A user can also record some commands and use them in later conversion:
 
 ─	User: work means Chalmers on Monday at 7:30
+
 ─	User: home means Valand
+
 ─	User: Jag vill åka från hem till jobbet 
 (I want to go from home to work)
 
